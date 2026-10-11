@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "case",
+  "versions": [
+    {
+      "commit": "e0ba875515c693fb79f8f212e5d35b140ec79505",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:04:32.722725+00:00"
+    }
+  ]
+}
